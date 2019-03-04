@@ -16,6 +16,9 @@ public class DBUtil {
 	private static String password;
 	
 	static {
+		
+		
+		
 		Properties p = new Properties();
 		
 		try {
